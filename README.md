@@ -1,6 +1,6 @@
-# Legacy Stationery Database System
+# 🛒Legacy Stationery Database System
 
-## Project Overview
+## 📌Project Overview
 
 Legacy Stationery is a student-focused e-commerce platform designed to provide affordable stationery, 
 electronics, and academic supplies to university students across South Africa.
@@ -9,13 +9,13 @@ This project demonstrates the design and implementation of a relational database
 
 ---
 
-## Business Problem
+## 🎯Business Problem
 
 University students often face challenges accessing affordable academic supplies due to financial and logistical constraints. The goal of this project was to design a database system capable of supporting a scalable e-commerce platform tailored to student needs.
 
 ---
 
-## Features
+## ✨Features
 
 * Relational database design using ERD principles
 * Entity relationships and bridge tables
@@ -35,18 +35,17 @@ University students often face challenges accessing affordable academic supplies
 
 ---
 
-## Database Technologies Used
+## 🛠️Database Technologies Used
 
 * SQL Server
-* T-SQL
 * Relational Database Design
 * Entity Relationship Diagrams (ERD)
 
 ---
 
-## Key SQL Implementations
+## 📊Key SQL Implementations
 
-### Analytical Queries
+### 📈Analytical Queries
 
 The project includes advanced SQL queries such as:
 
@@ -56,7 +55,7 @@ The project includes advanced SQL queries such as:
 * LEFT JOIN operations
 * Inventory reporting
 
-### View Creation
+### 📦View Creation
 
 A custom inventory status view was created to classify stock levels:
 
@@ -65,13 +64,13 @@ A custom inventory status view was created to classify stock levels:
 * Medium
 * High
 
-### Stored Procedure
+### ⚙️Stored Procedure
 
 A stored procedure was developed to update order statuses dynamically while validating order existence.
 
 ---
 
-## Database Structure
+## 🗂️Database Structure
 
 The database consists of multiple interconnected entities including:
 
@@ -87,16 +86,15 @@ The database consists of multiple interconnected entities including:
 
 ---
 
-## Project Files
+## 📁Project Files
 
-### Documentation
+### 📄Documentation
 
 * Business narrative
 * Business rules
 * ERD explanation
-* SQL query demonstrations
 
-### SQL Scripts
+### 💾SQL Scripts
 
 * Database creation
 * Table creation
@@ -108,7 +106,7 @@ The database consists of multiple interconnected entities including:
 
 ---
 
-## Skills Demonstrated
+## 🚀Skills Demonstrated
 
 * Database Design
 * SQL Development
@@ -120,7 +118,4 @@ The database consists of multiple interconnected entities including:
 
 ---
 
-## Author
-
-Information Systems student passionate about data, databases, analytics, and building data-driven solutions.
 
