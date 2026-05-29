@@ -2,25 +2,24 @@
 
 # STORED PROCEDURE: UPDATE ORDER STATUS
 
-PURPOSE:
-This stored procedure updates the status of an order
-only if the specified order exists in the database.
+#PURPOSE:
+#This stored procedure updates the status of an order
+#only if the specified order exists in the database.
 
-The procedure demonstrates:
+#The procedure demonstrates:
 
-* Stored Procedures
-* Parameters
-* Conditional Logic
-* IF EXISTS validation
-* UPDATE statements
+#* Stored Procedures
+#* Parameters
+#* Conditional Logic
+#* IF EXISTS validation
+#* UPDATE statements
 
-BUSINESS VALUE:
-Helps automate order management by allowing order
-statuses to be updated dynamically while preventing
-invalid updates to non-existing orders.
-=======================================
+#BUSINESS VALUE:
+#Helps automate order management by allowing order
+#statuses to be updated dynamically while preventing
+#invalid updates to non-existing orders.
 
-*/
+#*/
 
 CREATE PROCEDURE usp_UpdateOrderStatus
 @OrderID INT,
