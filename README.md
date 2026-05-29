@@ -16,7 +16,7 @@ University students often face challenges accessing affordable academic supplies
 ---
 
 ## ERD Overview
-![ERD Diagram](ERD.draw.io.png)
+![ERD Diagram](ERD.drawio.png)
 
 
 ## ✨Features
