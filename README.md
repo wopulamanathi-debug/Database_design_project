@@ -15,6 +15,10 @@ University students often face challenges accessing affordable academic supplies
 
 ---
 
+## ERD Overview
+![ERD Diagram](ERD.draw.io.png)
+
+
 ## ✨Features
 
 * Relational database design using ERD principles
